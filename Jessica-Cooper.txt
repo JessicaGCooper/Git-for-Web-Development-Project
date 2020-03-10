@@ -1,0 +1,3 @@
+Welcome to my first Git Project
+
+I love dogs, eating very specific things, and even though I haven't been to the beach since 2005, my heart lies in the Caribbean.
